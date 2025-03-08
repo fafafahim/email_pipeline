@@ -534,7 +534,6 @@
 
       // Toggle recording for feedback
       function toggleRecording() {
-
         isRecording = !isRecording;
         $("#startRecording").text(isRecording ? "Stop Listening" : "Share Feedback");
         updateRecognitionState();
@@ -557,8 +556,8 @@
           } else if (transcript.includes("larry share feedback")) {
             toggleRecording();
           } else if (isRecording) {
-          $("#email_feedback").val($("#email_feedback").val() + " " + transcript);
-          autoSave();
+            $("#email_feedback").val($("#email_feedback").val() + " " + transcript);
+            autoSave();
           }
         };
         recognition.onerror = function(event) {
