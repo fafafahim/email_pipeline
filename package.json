@@ -4,7 +4,8 @@
   "description": "Frontend for email codebase cleaning",
   "main": "azure-speech.js",
   "scripts": {
-    "start": "node azure-speech.js"
+    "start": "node azure-speech.js",
+    "build": "node azure-speech.js"
   },
   "dependencies": {
     "dotenv": "^16.0.0",
