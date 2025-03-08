@@ -1,6 +1,6 @@
 [build]
   publish = "build"
-  command = "npm run build"
+  command = "./build.sh"
 
 [build.environment]
   NODE_VERSION = "16.20.0"
