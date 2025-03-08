@@ -78,6 +78,16 @@ The intermediary output will be generated in the `src/output` folder. `5html_con
 
 The final output will be generated in the `src/export` folder.
 
+# Using the Application
+
+1. Change variables and prompts in `src/variables` and `src/prompts` as needed.
+2. Run the jupyter notebook called `2. first_review.ipynb`.
+3. Run `python3 frontend/main.py` to start the frontend.
+4. Open the frontend in your browser at `http://localhost:5100`.
+5. Review emails and feedback in the frontend.
+6. Run the jupyter notebook called `3. second_review.ipynb`.
+7. Remove comments from export scripts in jupyter notebooks to generate the final output.
+
 ## src/variables
 
 You can add your own txt files in `src/variables`. These variables can be referred in the prompts.
