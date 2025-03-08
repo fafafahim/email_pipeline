@@ -1,7 +1,7 @@
 [build]
   publish = "build"
-  command = "./build.sh"
+  command = "bash build.sh"
 
 [build.environment]
   NODE_VERSION = "16.20.0"
-  PYTHON_VERSION = "3.9.12"  
+  PYTHON_VERSION = "3.9.12"
