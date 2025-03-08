@@ -1,9 +1,6 @@
-
-
-
-
-
-
-
-
-npm run build# Run the build commandpip install -r requirements.txt# Install Python dependenciesset -e#!/bin/bash
+#!/bin/bash
+set -e
+# Install Python dependencies
+pip install -r requirements.txt
+# Run the build command
+npm run build
