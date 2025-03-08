@@ -2,7 +2,7 @@
   "name": "email_pipeline",
   "version": "1.0.0",
   "scripts": {
-    "build": "mkdir -p dist && cp -r frontend dist && cp -r export dist && cp -r output dist && echo '<h1>Hello Netlify</h1>' > dist/index.html"
+    "build": "mkdir -p dist && cp -r frontend dist && cp -r export dist && cp -r output dist && cp frontend/templates/index.html dist/index.html"
   },
   "description": "Frontend for email codebase cleaning",
   "main": "azure-speech.js",
