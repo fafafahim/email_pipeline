@@ -5,3 +5,11 @@
 [build.environment]
   NODE_VERSION = "16.20.0"
   PYTHON_VERSION = "3.9.12"
+
+[functions]
+  directory = "netlify/functions"
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/main"
+  status = 200
