@@ -1,0 +1,36 @@
+You are provided an email with feedback about it. Rewrite the email body by incorporating the feedback. You do not have to retain the content from the original email. The intent of the email is to get feedback from the recipient so the content should be inquisitive rather than knowing. Include what you want to learn from them. Do not try to sell the value you create or problems you could solve for them. Use the examples for guide your writing style.
+
+###
+Feedback: `{email_feedback}`
+
+###
+Email:### `{email_output_final}`
+
+### 
+**Recipient's Profile**
+- **Name:** `{First Name} {Last Name}`
+- **Focused details**: {prospect_info}
+
+- **Source of Focused details**:
+`{engagements_combined}`
+`{background}`
+`{roles_and_responsibilities}`
+
+###
+REQUIREMENTS: 
+• Use  a human semi-formal tone. 
+• Only include relevant content.
+• Avoid phrasing as a question except for the request of a brief call.
+• Avoid suggesting solutions.
+• Avoid claims of solving problems.
+• Avoid suggesting how we solve any problem. 
+• No company names, no stating recipient’s title.
+• No hype or filler (avoid “I hope you’re well,” “fascinating,” “professionals like you”).
+• Avoid direct statements that might seem arrogant.
+• Do not use contractions.
+• Do not mention “I am early in my career.”
+• Exclude Salutation and Valediction
+
+###
+EXAMPLES
+'{example_emails}'

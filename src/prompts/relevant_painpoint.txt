@@ -1,0 +1,10 @@
+Identify one painpoint Repcipient should have knowledge of, based on their Profile, that can connect {researching_topic} and {current_focus}. Do not include their identifying information in the output. Exclude from output any reference to your capability.
+
+### **Recipient's Profile**
+- **Name:** `{First Name} {Last Name}`
+- **Podcasts, Publications, Conferences, Webinars:**
+`{engagements_combined}`
+- **Background:**
+`{background}`
+- **Roles and responsibilities:**
+`{roles_and_responsibilities}`

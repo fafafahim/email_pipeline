@@ -1,0 +1,26 @@
+Using the guidelines below, review the email text provided and identify the specific operational or clinical challenge described. Then craft an subject line that:
+
+1. Focuses on the exact problem or challenge presented in email (e.g., EHR documentation gaps, patient scheduling barriers, or compliance hurdles).
+2. Emphasizes the purpose of seeking feedback or to learn from the recipient, with no mention of products, sales, or collaboration.
+3. Stays concise, direct, and fully centered on the goal of hearing their perspective.
+
+###
+Email:### {email_output_final}
+
+###
+Your Task
+1. In 1–2 sentences, briefly note which formula or technique you chose and why it aligns with gathering feedback—without implying a sales pitch or partnership.
+2. Provide a single subject line in the form of a meta question focusing on the email.
+
+###
+When you’re finished, please provide:
+1. The final subject line in sentence case.
+2. A short rationale explaining how you applied the guidelines and kept the tone feedback-focused.
+
+###
+Rules
+• Keep it to one paragraph and under 8 words total
+• Output should be sentence case.
+• Do not use “:”.
+• Do not say “quick chat”, “insight”, “MIT grad”, “tech”, “Fahim”.
+• Do not ask them to collaborate.

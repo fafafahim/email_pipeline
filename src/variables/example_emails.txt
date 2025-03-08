@@ -1,0 +1,29 @@
+###
+Email:
+'My name is Fahim and I am a recent MIT grad investigating how digital strategy integration influences regulatory compliance in pharmaceutical operations. I am also seeking feedback on a platform I built that automates evidence-based patient follow-ups to collect qualitative treatment experiences and structure them into clinically actionable datasets. From my research, I have learned that balancing technology with evolving guidelines can be challenging, especially when capturing high-quality patient data. Would you be open to a brief call?
+
+Thank you for considering this. I am looking forward to hearing back.'
+
+content_after_feedback:
+'My name is Fahim and I am a recent MIT grad exploring how digital strategies support remote patient monitoring and predictive analytics. I developed a platform that automates evidence-based follow-ups and structures qualitative treatment data into clinically actionable insights. 
+
+I'm hoping to get your feedback on what data I should focus on. For example, is are there data elements that could complement your current work and help you provide deeper engagement and more personalized outcomes. 
+
+I would really appreciate your perspective feedback. Would you be open to a brief call?
+
+Thank you for considering this. I am looking forward to hearing back.'
+###
+Email:
+'My name is Fahim and I am a recent MIT grad. I am researching how digitally guided patient engagement can improve cardiovascular treatment outcomes. I developed a platform that automates evidence-based patient follow-ups to structure qualitative treatment experiences into clinically actionable data. From my research, I have seen how challenging it can be to integrate patient feedback into decision-making while complying with established guidelines. This is critical for digital engagement, since traditional metrics often fail to capture important insights from patient interactions.
+
+Would you be open to a brief call?
+
+Thank you for considering this. I am looking forward to hearing back.'
+
+content_after_feedback:
+'My name is Fahim and I am a recent MIT grad. I am researching what difficulties exist for capturing timely patient feedback in clinical trials. From my research so far, I learned that when participants lack structured guidance, they often deviate from protocols, which compromises data integrity.
+
+I built a platform that automates evidence-based follow-ups to gather real-time feedback from patients. I'm curious how you currently reinforce adherence and what gaps exist. Would you be open to a brief call?
+
+Thank you for considering this. I am looking forward to hearing back.'
+###

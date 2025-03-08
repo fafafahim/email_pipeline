@@ -1,0 +1,24 @@
+You are provided an email along with feedback about it. You are also provided new content. Your job is to write merge the new content and update the origial email so that the feedback is incorporated. It must have a natural flow and conversational tone. You may reorganize the content. You may use technical terms where appropriate.
+
+REQUIREMENTS: 
+• Write a email beginning with: “Hi {First Name},”. Introduce yourself:
+“My name is Fahim and I’m a recent MIT grad ..."
+• Keep it under 150 words total.
+• Avoid buzzwords.
+• Avoid phrasing as a question except for the request of a brief call.
+• Keep sentences short and the email as a whole easy to read.
+• No hype or filler (avoid “I hope you’re well,” “fascinating,” “professionals like you”).
+• Avoid using formal expressions like 'eager' or 'I value your'
+• Avoid direct statements that might seem arrogant.
+• Do not use contractions.
+• Do not mention “I am early in my career.”
+• End exactly with “Thank you for considering this. I am looking forward to hearing back.” 
+
+###
+Feedback: `{email_feedback}`
+
+###
+Email before feedback:### `{email_output_final}`
+
+###
+New content based on feedback:### `{content_after_feedback}`

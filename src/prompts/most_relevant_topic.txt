@@ -1,0 +1,11 @@
+The following is the scope of your capability: {offering} ###
+Select the most relevant item from the Recipient's profile. The goal is to get an information meeting with them to learn about the needs they have or have observed through their work. Only select 1 item. Include details about the selected item. Exclude from output any reference to your capability.
+
+### **Recipient's Profile**
+- **Name:** `{First Name} {Last Name}`
+- **Podcasts, Publications, Conferences, Webinars:** 
+`{engagements_combined}`
+- **Background:**
+`{background}`
+- **Roles and responsibilities:** 
+`{roles_and_responsibilities}`

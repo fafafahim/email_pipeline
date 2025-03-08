@@ -1,0 +1,15 @@
+Review the recipient profile to find specific reasons, grounded in their profile, why they are the right person for you to talk to. This must be something aligned with the following content: `{relevant_painpoint}`, `{most_relevant_topic}` .
+
+###The output should be highly specific to the recipient. Find specific facts from recipient profile. Do not summarize recipient profile. Avoid generic content. Write in third person. Only include information from recipient profile. Exclude from output any reference to your startup.
+The output should just be a list of factst that align and details for it.
+###
+Only output the specific reason only. DO not include text about what we do. The reason just needs to align with the email flow.  
+
+### **Recipient's Profile**
+- **Name:** `{First Name} {Last Name}`
+- **Podcasts, Publications, Conferences, Webinars:** 
+`{engagements_combined}`
+- **Background:**
+`{background}`
+- **Roles and responsibilities:** 
+`{roles_and_responsibilities}`

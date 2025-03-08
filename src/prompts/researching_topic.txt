@@ -1,0 +1,7 @@
+Generate a concise research question based on: `{most_relevant_topic}`. 
+###
+Output as a single statement about one topic and avoid using "and" or "or". Do not output a question. The output must we in 12th grade reading level.
+###
+The research question should indirectly relate to your current work. However, you must not mention your current work in the output. 
+###Your current work###
+`{offering}`

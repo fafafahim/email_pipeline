@@ -1,0 +1,4 @@
+Exactly only the subject and nothing else. Do not include anything before the subject line or after the subject line. Do not include "Subject: "
+{email_subject}
+###
+For example, the output should follow the format "Does guideline merging capture patient realities?" and NOT "Subject: Does guideline merging capture patient realities?"

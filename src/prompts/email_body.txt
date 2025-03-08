@@ -1,0 +1,25 @@
+Write a email beginning with: “Hi {First Name},”. Introduce yourself:
+“My name is Fahim and I’m a recent MIT grad ..." then briefly mention the following:
+###
+researching: (“{researching_topic};"
+###“{current_focus}”);
+###politely note that you’ve learned about a  possible challenge (“{relevant_painpoint}”). Express genuine curiosity about how they address this issue. Use phrasing such as "I've learned from my research so far" or "I've noticed [] may be a challenge". Avoid using the term "painpoint";
+###
+Background on recipient: `{why_them}`;
+###
+End by asking if they’d be open to a brief call.
+
+###
+ 
+REQUIREMENTS: 
+• Use  a human semi-formal tone. 
+• Only include relevant content.
+• Keep it under 125 words total.
+• Avoid phrasing as a question except for the request of a brief call.
+• Avoid framing “{current_focus}” as a solution.
+• No company names, no stating recipient’s title.
+• No hype or filler (avoid “I hope you’re well,” “fascinating,” “professionals like you”).
+• Avoid direct statements that might seem arrogant.
+• Do not use contractions.
+• Do not mention “I am early in my career.”
+• Exclude Salutation and Valediction

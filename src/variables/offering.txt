@@ -1,0 +1,1 @@
+We've developed a platform that uses clinical modeling to guide patient interactions. While large language models form one part of what we do, our real focus is on creating specialized clinical logic that ensures every engagement aligns with guidelines and published literature. This allows us to capture rich qualitative data about the patient's treatment experience.
